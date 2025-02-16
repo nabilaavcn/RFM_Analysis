@@ -1,3 +1,11 @@
+# **Optimizing Marketing Strategies with RFM-Based Client Segmentation for Grotech**
+
+Data Analyst:
+- Nabila Avicenna 
+- Muhammad Hafizh 
+- Adam Praharsya Rahmadian 
+- Reinaldi Ragasa 
+
 ## **Background**
 
 Grotech offers a range of heavy machinery, including excavator, crane, and forklift, that are built to the highest standards of quality and efficiency. Grotech offers real-time monitoring tools and a digital project management system to support technological needs and boost productivity. Technical assistance, operator training, and client-specific architectural design are among the consulting services offered.
